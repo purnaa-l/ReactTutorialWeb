@@ -67,6 +67,6 @@ video {
     }
   
     .btn {
-      width: 100%;
+      width: 100%; /*This is a comment*/
     }
   }
